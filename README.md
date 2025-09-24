@@ -34,7 +34,7 @@ The analysis focused on the following features from the Titanic dataset:
 These features were used to explore survival patterns and generate meaningful visualizations using Matplotlib and Seaborn.
 ## Visualizations
 
-<img src="images/survival-non_survival.png" >
+<img src="/images/survival-non_survival.png" >
 
 
 <img src="images/survival_gender.png" >
