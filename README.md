@@ -32,3 +32,18 @@ The analysis focused on the following features from the Titanic dataset:
 - Passenger Class (pclass) – socio-economic class of the passenger (1st, 2nd, 3rd).  
 
 These features were used to explore survival patterns and generate meaningful visualizations using Matplotlib and Seaborn.
+## Visualizations
+
+<img src="images/survival-non_survival.png" alt="Survival by Class">
+
+
+<img src="images/survival_gender.png" alt="Survival by Class">
+
+<img src="images/survival_pclass.png" alt="Survival by Class">
+
+
+<img src="images/survival_who.png" alt="Survival by Class">
+
+
+
+<img src="images/survival-deck.png" alt="Survival by Class">
