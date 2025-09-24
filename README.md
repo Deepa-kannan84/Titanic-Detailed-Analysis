@@ -35,7 +35,7 @@ These features were used to explore survival patterns and generate meaningful vi
 ## Visualizations
 
 
-<img src="Images/survival-non_survival.png" alt=" KNN" style="width: 300px; height: 200px;">
+<img src="Images/survival-non_survival.png">
 
 
 <img src="Images/survival_gender.png" >
